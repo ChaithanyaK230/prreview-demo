@@ -2,4 +2,4 @@ from calculator import add
 
 
 def test_add():
-    assert add(2, 8) == 10
+    assert add(2, 863) == 865
