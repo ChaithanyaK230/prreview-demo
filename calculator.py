@@ -4,7 +4,7 @@ class Maths:
         return a -b-c
 
     def multiply(self, a, b):
-        return a * b * c
+        return a * c
 
 m = Maths()
 
