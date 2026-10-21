@@ -4,9 +4,9 @@ class Maths:
         return a + b + c
 
     def multiply(self, a, b):
-        return a * b
+        return a * b * c
 
 m = Maths()
 
 print(m.add(10, 5, 3))  # 18
-print(m.multiply(4, 5))   # 20
+print(m.multiply(4, 5,7))   # 20
